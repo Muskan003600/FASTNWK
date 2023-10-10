@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: muskan003600.github.io/fastnwk
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: fastnwk package
+site-title: `fastnwk`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: muskan003600.github.io/fastnwk
+current-package: muskan003600.github.io/fastnwk
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of fastnwk.
 
 -- display-type:
-types: $<repo_name>.types
+types: $fastnwk.types
 
 
 -- end: site-doc.doc-home
